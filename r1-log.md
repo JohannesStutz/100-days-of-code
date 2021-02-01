@@ -9,3 +9,9 @@ Started a [Python website blocker](https://github.com/JohannesStutz/python-websi
 
 ### R1D2
 Didn't have much time for coding today. Continued with [Python website blocker](https://github.com/JohannesStutz/python-website-blocker) and added a Pomodoro timer. Next: feature for scheduling or blocking websites for a specific length of time. Also: figure out how to make an installable package.
+
+### R1D3
+- Decided to try the website blocker project with [nbdev](https://github.com/fastai/nbdev). A tool that lets you develop software in Jupyter notebooks. It can automatically create pip packages and a documentation website: https://johannesstutz.github.io/beproductive/
+- GitHub link: [Be Productive](https://github.com/JohannesStutz/beproductive)
+- Added support for Linux (and probably MacOS, can't test it)
+- Had trouble using git. Took over half an hour to fix a merge conflict caused by A SINGLE LINE. Need to learn git basics!
