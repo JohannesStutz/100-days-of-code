@@ -15,3 +15,6 @@ Didn't have much time for coding today. Continued with [Python website blocker](
 - GitHub link: [Be Productive](https://github.com/JohannesStutz/beproductive)
 - Added support for Linux (and probably MacOS, can't test it)
 - Had trouble using git. Took over half an hour to fix a merge conflict caused by A SINGLE LINE. Need to learn git basics!
+
+### R1D4
+Had not so much time today. Tried to turn [Be Productive](https://github.com/JohannesStutz/beproductive) into a proper command line tool. Learned about `argparse`. You can now run `python -m beproductive pomodoro` and a Pomodoro session starts. Next up: scheduling / block websites for certain time. Git was better today :)
