@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Johannes Stutz
 
-The log of my #100DaysOfCode challenge. Started on [January 30, Saturday, 2021].
+The log of my #100DaysOfCode challenge. Started on **January 30, Saturday, 2021**.
 
 ## Log
 
@@ -18,3 +18,6 @@ Didn't have much time for coding today. Continued with [Python website blocker](
 
 ### R1D4
 Had not so much time today. Tried to turn [Be Productive](https://github.com/JohannesStutz/beproductive) into a proper command line tool. Learned about `argparse`. You can now run `python -m beproductive pomodoro` and a Pomodoro session starts. Next up: scheduling / block websites for certain time. Git was better today :)
+
+### R1D5
+Skipped because of my birthday :)
