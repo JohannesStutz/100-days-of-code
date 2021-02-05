@@ -25,3 +25,6 @@ Skipped because of my birthday :)
 ### R1D6
 Added the option to block websites for a certain time. `python -m beproductive block 45` blocks all websites for 45 minutes. Also, you can customize Pomodoro times. `python -m beproductive pomodoro 30 10 4` runs 4 Pomodoros of 30 minutes with 10 minute breaks.
 Tried to create a pip package, but could not get nbdev to work in WSL2
+
+### R1D7
+Made a [PyPi package](zyDMg7LPSaa7)! `pip install beproductive` is enough to get the package running. 
