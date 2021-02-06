@@ -28,3 +28,6 @@ Tried to create a pip package, but could not get nbdev to work in WSL2
 
 ### R1D7
 Made a [PyPi package](zyDMg7LPSaa7)! `pip install beproductive` is enough to get the package running. 
+
+### R1D8
+New project: Blurry. A privacy tool that automatically blurs faces in photos (and maybe videos). Developing in nbdev again. [First notebook](https://github.com/JohannesStutz/blurry/blob/master/00_core.ipynb) is very rough but proof of concept.
