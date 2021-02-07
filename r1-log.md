@@ -31,3 +31,6 @@ Made a [PyPi package](zyDMg7LPSaa7)! `pip install beproductive` is enough to get
 
 ### R1D8
 New project: Blurry. A privacy tool that automatically blurs faces in photos (and maybe videos). Developing in nbdev again. [First notebook](https://github.com/JohannesStutz/blurry/blob/master/00_core.ipynb) is very rough but proof of concept.
+
+### R1D9
+Played a bit with webcam and Blurry. Prototype for live face blurring. Works okay, although with very low framerate (~10fps). Next week: build a command line tool for image processing. Maybe web app.
