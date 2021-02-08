@@ -34,3 +34,6 @@ New project: Blurry. A privacy tool that automatically blurs faces in photos (an
 
 ### R1D9
 Played a bit with webcam and Blurry. Prototype for live face blurring. Works okay, although with very low framerate (~10fps). Next week: build a command line tool for image processing. Maybe web app.
+
+### R1D10
+New project: blur the background in webcam videos. [Link to repo](https://github.com/JohannesStutz/background-detection). Very productive day! Starting with taking images, annotating them, building a model with fastai and writing some OpenCV code to create a video with blurred video. Blog posts not quite finished yet but coming along.
