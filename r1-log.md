@@ -37,3 +37,6 @@ Played a bit with webcam and Blurry. Prototype for live face blurring. Works oka
 
 ### R1D10
 New project: blur the background in webcam videos. [Link to repo](https://github.com/JohannesStutz/background-detection). Very productive day! Starting with taking images, annotating them, building a model with fastai and writing some OpenCV code to create a video with blurred video. Blog posts not quite finished yet but coming along.
+
+### R1D11
+Spent a lot of time finishing the [blog post](https://deeplearning.berlin/fastai/privacy/getting%20started/2021/02/09/Background-Blur-Part-1.html) for background blurring. Part 1 is online. Figured out a better way to do the masking (alpha blending instead of binary mask), will cover this in blog post no. 2 tomorrow.
