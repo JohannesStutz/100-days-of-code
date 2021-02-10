@@ -40,3 +40,6 @@ New project: blur the background in webcam videos. [Link to repo](https://github
 
 ### R1D11
 Spent a lot of time finishing the [blog post](https://deeplearning.berlin/fastai/privacy/getting%20started/2021/02/09/Background-Blur-Part-1.html) for background blurring. Part 1 is online. Figured out a better way to do the masking (alpha blending instead of binary mask), will cover this in blog post no. 2 tomorrow.
+
+### R1D12
+Released [blog post part 2](https://deeplearning.berlin/fastai/privacy/opencv/2021/02/10/Background-Blur-Part-2.html) for the  background blurring project. Not too much actual coding today, but improved inference process. No more writing frames to disk but passing them directly to the model! Tomorrow it's back to the Website Blocker.
