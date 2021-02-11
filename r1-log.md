@@ -43,3 +43,6 @@ Spent a lot of time finishing the [blog post](https://deeplearning.berlin/fastai
 
 ### R1D12
 Released [blog post part 2](https://deeplearning.berlin/fastai/privacy/opencv/2021/02/10/Background-Blur-Part-2.html) for the  background blurring project. Not too much actual coding today, but improved inference process. No more writing frames to disk but passing them directly to the model! Tomorrow it's back to the Website Blocker.
+
+### R1D13
+Worked on the Be Productive project, the website blocker. I want to implement customization of the URLs via command line. So far not too much progress, learned about config files but I'm struggling with implementation. I don't get importing between modules... Will try refreshed tomorrow
