@@ -46,3 +46,6 @@ Released [blog post part 2](https://deeplearning.berlin/fastai/privacy/opencv/20
 
 ### R1D13
 Worked on the Be Productive project, the website blocker. I want to implement customization of the URLs via command line. So far not too much progress, learned about config files but I'm struggling with implementation. I don't get importing between modules... Will try refreshed tomorrow
+
+### R1D14
+Got the URL customization for Be Productive working!! It's getting more and more an actually useful tool. Still missing are notifications for Linux / Mac. Can't test those, unfortunately. [https://github.com/JohannesStutz/beproductive#be-productive](Readme)
