@@ -49,3 +49,13 @@ Worked on the Be Productive project, the website blocker. I want to implement cu
 
 ### R1D14
 Got the URL customization for Be Productive working!! It's getting more and more an actually useful tool. Still missing are notifications for Linux / Mac. Can't test those, unfortunately. [Readme](https://github.com/JohannesStutz/beproductive#be-productive)
+
+### R1D15
+Picked up an older project that I want to finished. Building detection in satellite images. No commit to Github unfortunately, only worked in Colab notebooks.
+FINALLY started using [Weights & Biases](https://wandb.ai/)! Why didn't I do this earlier?
+
+### R1D16
+Sunday break
+
+### R1D17
+Continued working on the satellite project. Lots and lots of model runs with different architectures and hyperparameters. Not too much progress unfortunately. But cool to use W&B for training run tracking, this was a pain before!
