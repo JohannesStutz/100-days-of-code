@@ -63,3 +63,6 @@ Sunday break
 - Continued working on the satellite project.
 - Lots and lots of model runs with different architectures and hyperparameters. Not too much progress unfortunately. But cool to use W&B for training run tracking, this was a pain before!
 - Experimented with Mish activation function & Ranger optimizer (though not much success, ReLU worked better in my project).
+
+### R1D18
+Worked on the satellite images project. Blog post coming tomorrow. Also some CSS tweaks for the blog, can display images wider than the text now!
