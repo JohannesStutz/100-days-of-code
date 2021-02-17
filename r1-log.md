@@ -66,3 +66,7 @@ Sunday break
 
 ### R1D18
 Worked on the satellite images project. Blog post coming tomorrow. Also some CSS tweaks for the blog, can display images wider than the text now!
+
+### R1D19
+SpaceNet7 project complete!! For now. Blog post is [here](https://deeplearning.berlin/satellite%20imagery/computer%20vision/fastai/2021/02/17/Building-Detection-SpaceNet7.html)
+Glad to have picked up that project again, I improved it quite a bit.
