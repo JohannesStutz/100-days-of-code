@@ -70,3 +70,6 @@ Worked on the satellite images project. Blog post coming tomorrow. Also some CSS
 ### R1D19
 SpaceNet7 project complete!! For now. Blog post is [here](https://deeplearning.berlin/satellite%20imagery/computer%20vision/fastai/2021/02/17/Building-Detection-SpaceNet7.html).
 Glad to have picked up that project again, I improved it quite a bit.
+
+### R1D20
+Worked a bit on [Face Blurring](https://github.com/JohannesStutz/blurry). Added support for different modes (Gaussian blur / pixelate) and non-square blur areas.
