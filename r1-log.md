@@ -75,4 +75,10 @@ Glad to have picked up that project again, I improved it quite a bit.
 Worked a bit on [Face Blurring](https://github.com/JohannesStutz/blurry). Added support for different modes (Gaussian blur / pixelate) and non-square blur areas.
 
 ### R1D21
-Worked on infrastructure...  running nbdev and git on Ubuntu / WSL now. Added ssh key to Blurry repo to avoid entering credentials every time for `git push`. Worked on CI for nbdev which always failed.
+Worked on infrastructure...
+- Running nbdev and git on Ubuntu / WSL now. A bit problematic because the conda venv is not shared... Had to install Ipykernel for example
+- Added ssh key to Blurry repo to avoid entering credentials every time for `git push`.
+- Worked on CI for nbdev which always failed.
+- After defining the correct dependencies, installing nbdev git hooks and running `nbdev_clean_nbs`, `nbdev_diff_nbs` and `nbdev_test_nbs`  it's finally working.
+- Better pixelate mode!
+- Added CLI template but no functionality yet
