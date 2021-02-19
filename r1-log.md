@@ -73,3 +73,6 @@ Glad to have picked up that project again, I improved it quite a bit.
 
 ### R1D20
 Worked a bit on [Face Blurring](https://github.com/JohannesStutz/blurry). Added support for different modes (Gaussian blur / pixelate) and non-square blur areas.
+
+### R1D21
+Worked on infrastructure...  running nbdev and git on Ubuntu / WSL now. Added ssh key to Blurry repo to avoid entering credentials every time for `git push`. Worked on CI for nbdev which always failed.
