@@ -82,3 +82,6 @@ Worked on infrastructure...
 - After defining the correct dependencies, installing nbdev git hooks and running `nbdev_clean_nbs`, `nbdev_diff_nbs` and `nbdev_test_nbs`  it's finally working.
 - Better pixelate mode!
 - Added CLI template but no functionality yet
+
+### R1D22
+Struggled to get something done today. Worked a little on the blog but did not really code...
