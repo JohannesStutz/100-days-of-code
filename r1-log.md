@@ -85,3 +85,9 @@ Worked on infrastructure...
 
 ### R1D22
 Struggled to get something done today. Worked a little on the blog but did not really code...
+
+### R1D23
+BREAK DAY
+
+### R1D24
+Again not much time for coding today. I want to turn Blurry into a web app. Installed `streamlit`. Again stuck in import hell (nbdev, import current modules). Either it doesn't work in the notebooks or not in streamlit or ..... How can this be so hard?!?
