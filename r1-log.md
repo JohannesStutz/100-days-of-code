@@ -91,3 +91,9 @@ BREAK DAY
 
 ### R1D24
 Again not much time for coding today. I want to turn Blurry into a web app. Installed `streamlit`. Again stuck in import hell (nbdev, import current modules). Either it doesn't work in the notebooks or not in streamlit or ..... How can this be so hard?!?
+
+### R1D25
+Streamlit app more or less running!
+I learned about
+- editable installs (pip install --editable . )
+- adding non-code files to packages (MANIFEST.in)
