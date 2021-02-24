@@ -97,3 +97,11 @@ Streamlit app more or less running! [Click to try](https://share.streamlit.io/jo
 I learned about
 - editable installs (pip install --editable . )
 - adding non-code files to packages (MANIFEST.in)
+
+### R1D26
+Added example images to the [Streamlit app](https://share.streamlit.io/johannesstutz/blurry/blurry/core.py). Not too elegant because Streamlit does not support clickable elements.
+I want to add the following features:
+1. Manual blurring of areas
+2. Manual unblurring (eg for your own face)
+3. Automatic blurring of text in image
+For 1) and 2) I need a custom frontend, not sure if I should go down that route at this time... 3) is backend related, that could work with OpenCV.
