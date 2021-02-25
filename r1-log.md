@@ -106,3 +106,8 @@ I want to add the following features:
 3. Automatic blurring of text in image
 
 For 1) and 2) I need a custom frontend, not sure if I should go down that route at this time... 3) is backend related, that could work with OpenCV.
+
+### R1D27
+Wanted to do some Python exercises today and started Advent of Code 2020. Heard about it from Peter Norvig (who has AWESOME solutions and many other riddles on his repo [pytudes]()).  
+Notebook is [here](https://github.com/JohannesStutz/coding-for-fun/blob/master/Advent%20of%20Code%202020.ipynb)  
+Again frustrating: getting the notebook onto Github with the command line and SSH. Took ~30 minutes or so... -.-
