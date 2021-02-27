@@ -114,3 +114,6 @@ Again frustrating: getting the notebook onto Github with the command line and SS
 
 ### R1D28
 Got a challenge for an ML internship application! Worked on this (computer vision problem) but cannot share on Github unfortunately.
+
+### R1D29
+Worked on CV project. Learned about and implemented a basic ML concept: k-fold cross validation.
