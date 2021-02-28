@@ -117,3 +117,6 @@ Got a challenge for an ML internship application! Worked on this (computer visio
 
 ### R1D29
 Worked on CV project. Learned about and implemented a basic ML concept: k-fold cross validation.
+
+### R1D30
+More work on CV project. Had some success with a custom U-Net architecture, but basically copy&pasted it, I wouldn't have been able to make it from scratch. Will try to understand every line though!
