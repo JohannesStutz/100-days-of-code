@@ -123,3 +123,6 @@ More work on CV project. Had some success with a custom U-Net architecture, but 
 
 ### R1D31
 Actually nice results now thanks to longer training! Rest of the project is now understanding architecture details & documentation.
+
+### R1D32
+Refactored the code, included type annotations. Worked on documentation.
