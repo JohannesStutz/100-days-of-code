@@ -120,3 +120,6 @@ Worked on CV project. Learned about and implemented a basic ML concept: k-fold c
 
 ### R1D30
 More work on CV project. Had some success with a custom U-Net architecture, but basically copy&pasted it, I wouldn't have been able to make it from scratch. Will try to understand every line though!
+
+### R1D31
+Actually nice results now thanks to longer training! Rest of the project is now understanding architecture details & documentation.
