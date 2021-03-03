@@ -126,3 +126,6 @@ Actually nice results now thanks to longer training! Rest of the project is now 
 
 ### R1D32
 Refactored the code, included type annotations. Worked on documentation.
+
+### R1D33
+Not much actual coding today, but documentation
